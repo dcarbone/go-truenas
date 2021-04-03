@@ -1,2 +1,2 @@
-# truenas-go
+# go-truenas
 Golang TrueNAS SDK
